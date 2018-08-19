@@ -1,2 +1,2 @@
 This is my README file
-Hello
+Hello, my name is Rachel.
